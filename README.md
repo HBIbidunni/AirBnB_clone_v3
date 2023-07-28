@@ -1,6 +1,7 @@
-# AirBnB Clone - RESTful API
+# The AirBnB Clone - RESTful API
 ---------
-![Holberton School Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/02078cd7f0573885c85a225c7436584a5afea1f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230728T134846Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2c53eab41baeb1791b8f27840a8c41bf73a05abd04064ce073b5925503b60b33)
+
+![AirBnB Logo](https://ichef.bbci.co.uk/news/976/cpsprodpb/B38D/production/_109556954_airbnb.png)
 
 The AirBnB Clone - RESTful API is a flask-based web application that follows the Model-View-Controller (MVC) architectural pattern. 
 It provides a RESTful API to handle various operations related to users, places, reviews, bookings, and more. 
@@ -171,7 +172,7 @@ No known bugs at this time.
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 - Tiamiyu Sodiq - [Github](https://github.com/sodex4real11)/ [Twitter](https://twitter.com/sodex4real11)
-- Oyindamola Ibis - [Github](https://github.com/HBIbidunni)/ [G-mail](https://gmail.com/ayodunibidunni@gmail.com)
+- Oyindamola Ibis - [Github](https://github.com/HBIbidunni)/ [G-mail](ayodunibidunni@gmail.com)
 
 
 
