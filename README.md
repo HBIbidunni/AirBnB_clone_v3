@@ -172,7 +172,7 @@ No known bugs at this time.
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 - Tiamiyu Sodiq - [Github](https://github.com/sodex4real11)/ [Twitter](https://twitter.com/sodex4real11)
-- Oyindamola Ibis - [Github](https://github.com/HBIbidunni)/ [G-mail](ayodunibidunni@gmail.com)
+- Oyindamola Ibis - [Github](https://github.com/HBIbidunni)/ [G-mail](https://mail.google.com/ayodunibidunni@gmail.com)
 
 
 
