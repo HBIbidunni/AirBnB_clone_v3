@@ -174,7 +174,7 @@ No known bugs at this time.
 - Oyindamola Ibis - [Github](https://github.com/HBIbidunni)/ [G-mail](https://gmail.com/ayodunibidunni@gmail.com)
 
 
-Second part of Airbnb: Joann Vuong
 
+Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
