@@ -1,16 +1,16 @@
-# AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+# AirBnB Clone - RESTful API
+---------
+![Holberton School Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/02078cd7f0573885c85a225c7436584a5afea1f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230728T134846Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2c53eab41baeb1791b8f27840a8c41bf73a05abd04064ce073b5925503b60b33)
 
-#### Functionalities of this command interpreter:
-* Create a new object (ex: a new User or a new Place)
-* Retrieve an object from a file, a database etc...
-* Do operations on objects (count, compute stats, etc...)
-* Update attributes of an object
-* Destroy an object
+The AirBnB Clone - RESTful API is a flask-based web application that follows the Model-View-Controller (MVC) architectural pattern. 
+It provides a RESTful API to handle various operations related to users, places, reviews, bookings, and more. 
+The project is divided into multiple modules to keep the code organized and maintainable. 
+The goal of this AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB).
 
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
+* [Features](#features)
 * [File Descriptions](#file-descriptions)
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
@@ -20,12 +20,26 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+To run the AirBnB Clone - RESTful API, you need the following software installed on your system:
+
+* Python 3.x
+* Flask
+* SQLAlchemy
+* SQLite (for local development)
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
+
+## Features
+* User registration and authentication.
+* Listing and managing properties (places) for rent.
+* Writing and managing reviews for properties.
+* Booking properties for specific dates.
+* User-friendly search and filtering options.
+* Admin dashboard to manage users and properties.
 
 ## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
@@ -156,7 +170,11 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Tiamiyu Sodiq - [Github](https://github.com/sodex4real11)/ [Twitter](https://twitter.com/sodex4real11)
+Oyindamola Ibis - [Github](https://github.com/HBIbidunni)/ [G-mail](https://gmail.com/ayodunibidunni@gmail.com)
+
 
 Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
