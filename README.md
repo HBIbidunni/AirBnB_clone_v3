@@ -20,7 +20,7 @@ The goal of this AirBnB project is to eventually deploy our server a simple copy
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3).
 To run the AirBnB Clone - RESTful API, you need the following software installed on your system:
 
 * Python 3.x
